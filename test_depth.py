@@ -2,14 +2,17 @@
 
 import numpy as np
 import cv2
+import os
+os.environ["OPENCV_IO_ENABLE_OPENEXR"] = "1"
 from pathlib import Path
 
 def visualize_depth():
     """读取并可视化深度图"""
     # 读取深度数据
-    depth_path = Path('test/distance_to_camera_0014.npy')
-    depth = np.load(str(depth_path))
-    
+    # depth_path = Path('datasets/basic1117-2/Replicator_03/distance_to_image_plane/distance_to_image_plane_0000.npy')
+    # depth = np.load(str(depth_path))
+    depth = cv2.imread("datasets/basic1117-2/Replicator_03/depth_png/distance_to_image_plane_0000.exr", cv2.IMREAD_UNCHANGED)
+
     print(f"深度图信息:")
     print(f"  形状: {depth.shape}")
     print(f"  数据类型: {depth.dtype}")
