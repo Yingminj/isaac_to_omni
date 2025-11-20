@@ -7,7 +7,7 @@ from pathlib import Path
 def visualize_depth():
     """读取并可视化深度图"""
     # 读取深度数据
-    depth_path = Path('/home/kewei/YING/isaac_to_omni/test/distance_to_camera_0000.npy')
+    depth_path = Path('test/distance_to_camera_0014.npy')
     depth = np.load(str(depth_path))
     
     print(f"深度图信息:")

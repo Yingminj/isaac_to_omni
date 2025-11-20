@@ -8,15 +8,14 @@ def analyze_3d_bboxes():
     """读取并分析3D边界框数据"""
     
     # 读取数据
-    data_dir = Path('/home/kewei/YING/isaac_to_omni/test')
-    bbox_3d = np.load(str(data_dir / 'bounding_box_3d_0000.npy'))
+    data_dir = Path('/home/kewei/YING/isaac_to_omni/basic1116')
+    bbox_3d = np.load(str(data_dir / 'bounding_box_3d_0016.npy'))
     print(bbox_3d)
 
-    
-    with open(data_dir / 'bounding_box_3d_labels_0000.json', 'r') as f:
+    with open(data_dir / 'bounding_box_3d_labels_0016.json', 'r') as f:
         bbox_3d_labels = json.load(f)
     
-    with open(data_dir / 'bounding_box_3d_prim_paths_0000.json', 'r') as f:
+    with open(data_dir / 'bounding_box_3d_prim_paths_0016.json', 'r') as f:
         bbox_3d_prim_paths = json.load(f)
     
     print("=" * 60)

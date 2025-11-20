@@ -1,0 +1,4533 @@
+{
+  "class_list": [
+    {
+      "name": "container,prop_general",
+      "label": 1,
+      "instance_ids": [
+        "sim-container,prop_general_003",
+        "sim-container,prop_general_006",
+        "sim-container,prop_general_007",
+        "sim-container,prop_general_012",
+        "sim-container,prop_general_017",
+        "sim-container,prop_general_018",
+        "sim-container,prop_general_019",
+        "sim-container,prop_general_022",
+        "sim-container,prop_general_024",
+        "sim-container,prop_general_026",
+        "sim-container,prop_general_028",
+        "sim-container,prop_general_029",
+        "sim-container,prop_general_030",
+        "sim-container,prop_general_031",
+        "sim-container,prop_general_037",
+        "sim-container,prop_general_039",
+        "sim-container,prop_general_043",
+        "sim-container,prop_general_044",
+        "sim-container,prop_general_049",
+        "sim-container,prop_general_051",
+        "sim-container,prop_general_054",
+        "sim-container,prop_general_058",
+        "sim-container,prop_general_059",
+        "sim-container,prop_general_060",
+        "sim-container,prop_general_062",
+        "sim-container,prop_general_064",
+        "sim-container,prop_general_065",
+        "sim-container,prop_general_066",
+        "sim-container,prop_general_067",
+        "sim-container,prop_general_068",
+        "sim-container,prop_general_069",
+        "sim-container,prop_general_070",
+        "sim-container,prop_general_071",
+        "sim-container,prop_general_072",
+        "sim-container,prop_general_074",
+        "sim-container,prop_general_075",
+        "sim-container,prop_general_077",
+        "sim-container,prop_general_078",
+        "sim-container,prop_general_083",
+        "sim-container,prop_general_085",
+        "sim-container,prop_general_086",
+        "sim-container,prop_general_090",
+        "sim-container,prop_general_091",
+        "sim-container,prop_general_094",
+        "sim-container,prop_general_095",
+        "sim-container,prop_general_098"
+      ],
+      "stat": {
+        "phocal-train": 0,
+        "phocal-test": 0,
+        "omniobject3d-train": 0,
+        "omniobject3d-test": 0,
+        "google_scan-train": 0,
+        "google_scan-test": 0,
+        "real-train": 46,
+        "real-test": 0
+      }
+    },
+    {
+      "name": "workpiece",
+      "label": 2,
+      "instance_ids": [
+        "sim-workpiece_000",
+        "sim-workpiece_001",
+        "sim-workpiece_002",
+        "sim-workpiece_003",
+        "sim-workpiece_004",
+        "sim-workpiece_005",
+        "sim-workpiece_006",
+        "sim-workpiece_007",
+        "sim-workpiece_008",
+        "sim-workpiece_009",
+        "sim-workpiece_010",
+        "sim-workpiece_011",
+        "sim-workpiece_012",
+        "sim-workpiece_013",
+        "sim-workpiece_014",
+        "sim-workpiece_015",
+        "sim-workpiece_016",
+        "sim-workpiece_017",
+        "sim-workpiece_018",
+        "sim-workpiece_019",
+        "sim-workpiece_020",
+        "sim-workpiece_021",
+        "sim-workpiece_022",
+        "sim-workpiece_023",
+        "sim-workpiece_024",
+        "sim-workpiece_025",
+        "sim-workpiece_026",
+        "sim-workpiece_027",
+        "sim-workpiece_028",
+        "sim-workpiece_029",
+        "sim-workpiece_030",
+        "sim-workpiece_031",
+        "sim-workpiece_032",
+        "sim-workpiece_033",
+        "sim-workpiece_034",
+        "sim-workpiece_035",
+        "sim-workpiece_036",
+        "sim-workpiece_037",
+        "sim-workpiece_038",
+        "sim-workpiece_039",
+        "sim-workpiece_040",
+        "sim-workpiece_041",
+        "sim-workpiece_042",
+        "sim-workpiece_043",
+        "sim-workpiece_044",
+        "sim-workpiece_045",
+        "sim-workpiece_046",
+        "sim-workpiece_047",
+        "sim-workpiece_048",
+        "sim-workpiece_049",
+        "sim-workpiece_050",
+        "sim-workpiece_051",
+        "sim-workpiece_052",
+        "sim-workpiece_053",
+        "sim-workpiece_054",
+        "sim-workpiece_055",
+        "sim-workpiece_056",
+        "sim-workpiece_057",
+        "sim-workpiece_058",
+        "sim-workpiece_059",
+        "sim-workpiece_060",
+        "sim-workpiece_061",
+        "sim-workpiece_062",
+        "sim-workpiece_063",
+        "sim-workpiece_064",
+        "sim-workpiece_065",
+        "sim-workpiece_066",
+        "sim-workpiece_067",
+        "sim-workpiece_068",
+        "sim-workpiece_069",
+        "sim-workpiece_070",
+        "sim-workpiece_071",
+        "sim-workpiece_072",
+        "sim-workpiece_073",
+        "sim-workpiece_074",
+        "sim-workpiece_075",
+        "sim-workpiece_076",
+        "sim-workpiece_077",
+        "sim-workpiece_078",
+        "sim-workpiece_079",
+        "sim-workpiece_080",
+        "sim-workpiece_081",
+        "sim-workpiece_082",
+        "sim-workpiece_083",
+        "sim-workpiece_084",
+        "sim-workpiece_085",
+        "sim-workpiece_086",
+        "sim-workpiece_087",
+        "sim-workpiece_088",
+        "sim-workpiece_089",
+        "sim-workpiece_090",
+        "sim-workpiece_091",
+        "sim-workpiece_092",
+        "sim-workpiece_093",
+        "sim-workpiece_094",
+        "sim-workpiece_095",
+        "sim-workpiece_096",
+        "sim-workpiece_097",
+        "sim-workpiece_098"
+      ],
+      "stat": {
+        "phocal-train": 0,
+        "phocal-test": 0,
+        "omniobject3d-train": 0,
+        "omniobject3d-test": 0,
+        "google_scan-train": 0,
+        "google_scan-test": 0,
+        "real-train": 99,
+        "real-test": 0
+      }
+    }
+  ],
+  "instance_dict": {
+    "sim-workpiece_053": {
+      "object_id": "sim-workpiece_053",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_002": {
+      "object_id": "sim-workpiece_002",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_042": {
+      "object_id": "sim-workpiece_042",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_096": {
+      "object_id": "sim-workpiece_096",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_076": {
+      "object_id": "sim-workpiece_076",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_030": {
+      "object_id": "sim-container,prop_general_030",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_030": {
+      "object_id": "sim-workpiece_030",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045489311218262,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_001": {
+      "object_id": "sim-workpiece_001",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.104548990726471,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_040": {
+      "object_id": "sim-workpiece_040",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840196609497,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_069": {
+      "object_id": "sim-container,prop_general_069",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_069": {
+      "object_id": "sim-workpiece_069",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842580795288,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_081": {
+      "object_id": "sim-workpiece_081",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_000": {
+      "object_id": "sim-workpiece_000",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365843772888184,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_008": {
+      "object_id": "sim-workpiece_008",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045489311218262,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_056": {
+      "object_id": "sim-workpiece_056",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_094": {
+      "object_id": "sim-container,prop_general_094",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_094": {
+      "object_id": "sim-workpiece_094",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_054": {
+      "object_id": "sim-container,prop_general_054",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_054": {
+      "object_id": "sim-workpiece_054",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_029": {
+      "object_id": "sim-container,prop_general_029",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_029": {
+      "object_id": "sim-workpiece_029",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_017": {
+      "object_id": "sim-container,prop_general_017",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_017": {
+      "object_id": "sim-workpiece_017",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_041": {
+      "object_id": "sim-workpiece_041",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_034": {
+      "object_id": "sim-workpiece_034",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_083": {
+      "object_id": "sim-container,prop_general_083",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_083": {
+      "object_id": "sim-workpiece_083",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_037": {
+      "object_id": "sim-container,prop_general_037",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_037": {
+      "object_id": "sim-workpiece_037",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842580795288,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_097": {
+      "object_id": "sim-workpiece_097",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_018": {
+      "object_id": "sim-container,prop_general_018",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_018": {
+      "object_id": "sim-workpiece_018",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_024": {
+      "object_id": "sim-container,prop_general_024",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_024": {
+      "object_id": "sim-workpiece_024",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_045": {
+      "object_id": "sim-workpiece_045",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_075": {
+      "object_id": "sim-container,prop_general_075",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_075": {
+      "object_id": "sim-workpiece_075",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_012": {
+      "object_id": "sim-container,prop_general_012",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_012": {
+      "object_id": "sim-workpiece_012",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045492887496948,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_070": {
+      "object_id": "sim-container,prop_general_070",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_070": {
+      "object_id": "sim-workpiece_070",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_066": {
+      "object_id": "sim-container,prop_general_066",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_066": {
+      "object_id": "sim-workpiece_066",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045491099357605,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_061": {
+      "object_id": "sim-workpiece_061",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_014": {
+      "object_id": "sim-workpiece_014",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_036": {
+      "object_id": "sim-workpiece_036",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842282772064,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_044": {
+      "object_id": "sim-container,prop_general_044",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_044": {
+      "object_id": "sim-workpiece_044",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491099357605,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_006": {
+      "object_id": "sim-container,prop_general_006",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_006": {
+      "object_id": "sim-workpiece_006",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842282772064,
+        1.104548990726471,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_093": {
+      "object_id": "sim-workpiece_093",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_065": {
+      "object_id": "sim-container,prop_general_065",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_065": {
+      "object_id": "sim-workpiece_065",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842282772064,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_091": {
+      "object_id": "sim-container,prop_general_091",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_091": {
+      "object_id": "sim-workpiece_091",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_071": {
+      "object_id": "sim-container,prop_general_071",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_071": {
+      "object_id": "sim-workpiece_071",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_052": {
+      "object_id": "sim-workpiece_052",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_025": {
+      "object_id": "sim-workpiece_025",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_028": {
+      "object_id": "sim-container,prop_general_028",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_028": {
+      "object_id": "sim-workpiece_028",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_087": {
+      "object_id": "sim-workpiece_087",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365839600563049,
+        1.1045491695404053,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_079": {
+      "object_id": "sim-workpiece_079",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_072": {
+      "object_id": "sim-container,prop_general_072",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_072": {
+      "object_id": "sim-workpiece_072",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_048": {
+      "object_id": "sim-workpiece_048",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045494079589844,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_010": {
+      "object_id": "sim-workpiece_010",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_089": {
+      "object_id": "sim-workpiece_089",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_027": {
+      "object_id": "sim-workpiece_027",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_023": {
+      "object_id": "sim-workpiece_023",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045492887496948,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_043": {
+      "object_id": "sim-container,prop_general_043",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_043": {
+      "object_id": "sim-workpiece_043",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_049": {
+      "object_id": "sim-container,prop_general_049",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_049": {
+      "object_id": "sim-workpiece_049",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_086": {
+      "object_id": "sim-container,prop_general_086",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_086": {
+      "object_id": "sim-workpiece_086",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_011": {
+      "object_id": "sim-workpiece_011",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_095": {
+      "object_id": "sim-container,prop_general_095",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_095": {
+      "object_id": "sim-workpiece_095",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842580795288,
+        1.1045493483543396,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_021": {
+      "object_id": "sim-workpiece_021",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045489311218262,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_005": {
+      "object_id": "sim-workpiece_005",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_004": {
+      "object_id": "sim-workpiece_004",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.104548990726471,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_064": {
+      "object_id": "sim-container,prop_general_064",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_064": {
+      "object_id": "sim-workpiece_064",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045494079589844,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_074": {
+      "object_id": "sim-container,prop_general_074",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_074": {
+      "object_id": "sim-workpiece_074",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_082": {
+      "object_id": "sim-workpiece_082",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491099357605,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_003": {
+      "object_id": "sim-container,prop_general_003",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_003": {
+      "object_id": "sim-workpiece_003",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_092": {
+      "object_id": "sim-workpiece_092",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_009": {
+      "object_id": "sim-workpiece_009",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_038": {
+      "object_id": "sim-workpiece_038",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_073": {
+      "object_id": "sim-workpiece_073",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_058": {
+      "object_id": "sim-container,prop_general_058",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_058": {
+      "object_id": "sim-workpiece_058",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_022": {
+      "object_id": "sim-container,prop_general_022",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_022": {
+      "object_id": "sim-workpiece_022",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_078": {
+      "object_id": "sim-container,prop_general_078",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_078": {
+      "object_id": "sim-workpiece_078",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_098": {
+      "object_id": "sim-container,prop_general_098",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_098": {
+      "object_id": "sim-workpiece_098",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045490503311157,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_035": {
+      "object_id": "sim-workpiece_035",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_090": {
+      "object_id": "sim-container,prop_general_090",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_090": {
+      "object_id": "sim-workpiece_090",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_019": {
+      "object_id": "sim-container,prop_general_019",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_019": {
+      "object_id": "sim-workpiece_019",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045494079589844,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_032": {
+      "object_id": "sim-workpiece_032",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_026": {
+      "object_id": "sim-container,prop_general_026",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_026": {
+      "object_id": "sim-workpiece_026",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_046": {
+      "object_id": "sim-workpiece_046",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_085": {
+      "object_id": "sim-container,prop_general_085",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_085": {
+      "object_id": "sim-workpiece_085",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_063": {
+      "object_id": "sim-workpiece_063",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045494079589844,
+        0.07785391807556152
+      ]
+    },
+    "sim-container,prop_general_039": {
+      "object_id": "sim-container,prop_general_039",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_039": {
+      "object_id": "sim-workpiece_039",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_080": {
+      "object_id": "sim-workpiece_080",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_031": {
+      "object_id": "sim-container,prop_general_031",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_031": {
+      "object_id": "sim-workpiece_031",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842580795288,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_068": {
+      "object_id": "sim-container,prop_general_068",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_068": {
+      "object_id": "sim-workpiece_068",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_084": {
+      "object_id": "sim-workpiece_084",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365842580795288,
+        1.1045494079589844,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_051": {
+      "object_id": "sim-container,prop_general_051",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_051": {
+      "object_id": "sim-workpiece_051",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_062": {
+      "object_id": "sim-container,prop_general_062",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_062": {
+      "object_id": "sim-workpiece_062",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045494079589844,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_047": {
+      "object_id": "sim-workpiece_047",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_007": {
+      "object_id": "sim-container,prop_general_007",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_007": {
+      "object_id": "sim-workpiece_007",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841686725616,
+        1.1045492887496948,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_057": {
+      "object_id": "sim-workpiece_057",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840494632721,
+        1.1045491695404053,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_013": {
+      "object_id": "sim-workpiece_013",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840196609497,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_067": {
+      "object_id": "sim-container,prop_general_067",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_067": {
+      "object_id": "sim-workpiece_067",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045492887496948,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_016": {
+      "object_id": "sim-workpiece_016",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_060": {
+      "object_id": "sim-container,prop_general_060",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_060": {
+      "object_id": "sim-workpiece_060",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841388702393,
+        1.1045491099357605,
+        0.07785415649414062
+      ]
+    },
+    "sim-container,prop_general_077": {
+      "object_id": "sim-container,prop_general_077",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_077": {
+      "object_id": "sim-workpiece_077",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045494079589844,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_055": {
+      "object_id": "sim-workpiece_055",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.104548990726471,
+        0.07785391807556152
+      ]
+    },
+    "sim-workpiece_015": {
+      "object_id": "sim-workpiece_015",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045490503311157,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_088": {
+      "object_id": "sim-workpiece_088",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.1045490503311157,
+        0.07785439491271973
+      ]
+    },
+    "sim-container,prop_general_059": {
+      "object_id": "sim-container,prop_general_059",
+      "source": "owndata",
+      "name": "container_h20",
+      "obj_path": "/World/packing_table/container_h20",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 1,
+      "class_name": "container,prop_general",
+      "dimensions": [
+        0.6116703748703003,
+        0.4115815758705139,
+        0.09034395217895508
+      ]
+    },
+    "sim-workpiece_059": {
+      "object_id": "sim-workpiece_059",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365841090679169,
+        1.1045494079589844,
+        0.07785439491271973
+      ]
+    },
+    "sim-workpiece_033": {
+      "object_id": "sim-workpiece_033",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840196609497,
+        1.104549527168274,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_020": {
+      "object_id": "sim-workpiece_020",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.536584198474884,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    },
+    "sim-workpiece_050": {
+      "object_id": "sim-workpiece_050",
+      "source": "owndata",
+      "name": "material",
+      "obj_path": "/World/workpiece/material/material",
+      "tag": {
+        "datatype": "real",
+        "sceneChanger": false,
+        "symmetry": {
+          "any": false,
+          "x": "none",
+          "y": "none",
+          "z": "none"
+        },
+        "materialOptions": [
+          "raw",
+          "diffuse"
+        ],
+        "upAxis": [
+          "y"
+        ]
+      },
+      "class_label": 2,
+      "class_name": "workpiece",
+      "dimensions": [
+        0.5365840792655945,
+        1.10454922914505,
+        0.07785415649414062
+      ]
+    }
+  }
+}

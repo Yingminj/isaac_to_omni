@@ -23,7 +23,7 @@ class IsaacSimToROS2(Node):
         self.timer = self.create_timer(1.0, self.publish_data)
         
         # Data directory
-        self.data_dir = Path('/home/kewei/YING/isaac_to_omni/basic')
+        self.data_dir = Path('/home/kewei/YING/isaac_to_omni/datasets/basic1117/Replicator_02')
         
         self.get_logger().info('Isaac Sim to ROS2 visualizer initialized')
         
@@ -31,27 +31,53 @@ class IsaacSimToROS2(Node):
         """Load all required data files"""
         try:
             # Load images
-            id = 16
-            rgb_img = cv2.imread(str(self.data_dir / f'rgb_{id:04d}.png'))
+            id = 15
+            # old
+            # rgb_img = cv2.imread(str(self.data_dir/ f'rgb_{id:04d}.png'))
+            # # instance_seg = cv2.imread(str(self.data_dir / f'instance_segmentation_{id:04d}.png'), cv2.IMREAD_UNCHANGED)
+            # depth = np.load(str(self.data_dir/ f'distance_to_camera_{id:04d}.npy'))
+            
+            # # Load 2D bounding boxes
+            # bbox_2d = np.load(str(self.data_dir / f'bounding_box_2d_tight_{id:04d}.npy'))
+            # with open(self.data_dir/ f'bounding_box_2d_tight_labels_{id:04d}.json', 'r') as f:
+            #     bbox_2d_labels = json.load(f)
+            # with open(self.data_dir / f'bounding_box_2d_tight_prim_paths_{id:04d}.json', 'r') as f:
+            #     bbox_2d_prim_paths = json.load(f)
+            
+            # # Load 3D bounding boxes
+            # bbox_3d = np.load(str(self.data_dir/ f'bounding_box_3d_{id:04d}.npy'))
+            # with open(self.data_dir  / f'bounding_box_3d_labels_{id:04d}.json', 'r') as f:
+            #     bbox_3d_labels = json.load(f)
+            # with open(self.data_dir / f'bounding_box_3d_prim_paths_{id:04d}.json', 'r') as f:
+            #     bbox_3d_prim_paths = json.load(f)
+            
+            # # Load camera parameters
+            # with open(self.data_dir/ f'camera_params_{id:04d}.json', 'r') as f:
+            #     camera_params = json.load(f) 
+
+            #new
+            rgb_img = cv2.imread(str(self.data_dir / "rgb" / f'rgb_{id:04d}.png'))
             # instance_seg = cv2.imread(str(self.data_dir / f'instance_segmentation_{id:04d}.png'), cv2.IMREAD_UNCHANGED)
-            depth = np.load(str(self.data_dir / f'distance_to_camera_{id:04d}.npy'))
+            # depth = np.load(str(self.data_dir / "distance_to_camera" / f'distance_to_camera_{id:04d}.npy'))
+            depth = np.load(str(self.data_dir / "distance_to_image_plane" / f'distance_to_image_plane_{id:04d}.npy'))
+            # basic1117/Replicator_02/distance_to_image_plane/distance_to_image_plane_0000.npy
             
             # Load 2D bounding boxes
-            bbox_2d = np.load(str(self.data_dir / f'bounding_box_2d_tight_{id:04d}.npy'))
-            with open(self.data_dir / f'bounding_box_2d_tight_labels_{id:04d}.json', 'r') as f:
+            bbox_2d = np.load(str(self.data_dir / "bounding_box_2d_tight" / f'bounding_box_2d_tight_{id:04d}.npy'))
+            with open(self.data_dir/ "bounding_box_2d_tight" / f'bounding_box_2d_tight_labels_{id:04d}.json', 'r') as f:
                 bbox_2d_labels = json.load(f)
-            with open(self.data_dir / f'bounding_box_2d_tight_prim_paths_{id:04d}.json', 'r') as f:
+            with open(self.data_dir / "bounding_box_2d_tight" / f'bounding_box_2d_tight_prim_paths_{id:04d}.json', 'r') as f:
                 bbox_2d_prim_paths = json.load(f)
             
             # Load 3D bounding boxes
-            bbox_3d = np.load(str(self.data_dir / f'bounding_box_3d_{id:04d}.npy'))
-            with open(self.data_dir / f'bounding_box_3d_labels_{id:04d}.json', 'r') as f:
+            bbox_3d = np.load(str(self.data_dir/ "bounding_box_3d" / f'bounding_box_3d_{id:04d}.npy'))
+            with open(self.data_dir / "bounding_box_3d" / f'bounding_box_3d_labels_{id:04d}.json', 'r') as f:
                 bbox_3d_labels = json.load(f)
-            with open(self.data_dir / f'bounding_box_3d_prim_paths_{id:04d}.json', 'r') as f:
+            with open(self.data_dir / "bounding_box_3d" / f'bounding_box_3d_prim_paths_{id:04d}.json', 'r') as f:
                 bbox_3d_prim_paths = json.load(f)
             
             # Load camera parameters
-            with open(self.data_dir / f'camera_params_{id:04d}.json', 'r') as f:
+            with open(self.data_dir/ "camera_params" / f'camera_params_{id:04d}.json', 'r') as f:
                 camera_params = json.load(f)            
             
             # Load instance segmentation mappings
